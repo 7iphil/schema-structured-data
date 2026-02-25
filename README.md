@@ -181,9 +181,6 @@ This outputs the JSON-LD schema without visible HTML on the page.
 * ✅ Q|A format for FAQ content (simple, no nested shortcodes)
 * ✅ ItemList supports ol/ul via `items-tag` attribute
 * ✅ `hidden` attribute for schema-only output
-* ✅ Duplicate processing prevention
-* ✅ Updated documentation with honest Rich Results info
-* ✅ All anonymous functions removed
 * ✅ WordPress Coding Standards compliant
 
 == Upgrade Notice ==
