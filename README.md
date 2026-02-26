@@ -171,6 +171,7 @@ This outputs the JSON-LD schema without visible HTML on the page.
 2. Frontend Output — Clean HTML with proper Q&A formatting for FAQPage
 3. JSON-LD in Source — Valid Schema.org markup in footer
 4. Google Rich Results — Validation passed
+5. Schema Validator — Validation passed
 
 == Changelog ==
 
