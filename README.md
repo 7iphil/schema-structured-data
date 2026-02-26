@@ -33,6 +33,22 @@ Not all schema types guarantee Rich Snippets. Google has specific requirements:
 
 This plugin generates **valid Schema.org markup**. Rich Result eligibility depends on your content structure and Google's algorithms.
 
+== Installation ==
+
+= Using the WordPress Plugin Installer =
+
+1. Go to WordPress Dashboard → Plugins → Add New.
+2. Search for "Schema Structured Data".
+3. Click "Install" then "Activate".
+4. Add `[schema]` shortcodes to your posts or pages.
+
+= Manual Installation =
+
+1. Download the plugin zip file.
+2. Unzip and upload to `/wp-content/plugins/schema-structured-data`.
+3. Activate via Dashboard → Plugins.
+4. You're ready! Add `[schema]` shortcodes to your content.
+
 == Usage ==
 
 = HowTo Schema =
